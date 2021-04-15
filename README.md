@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Software Enginner | Working as Consultant at Microsoft Consulting Services - Azure Cloud & AI, India
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=deep-mm&show_icons=true&theme=dracula&count_private=true) ![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-mm&langs_count=3&theme=dracula)
+
 <!--
 **deep-mm/deep-mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
