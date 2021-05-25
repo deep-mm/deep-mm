@@ -21,7 +21,7 @@ DevOps | Azure Cloud Architecture
 
 *******
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepmehta97/"><img src="https://svgshare.com/i/TTx.svg" height=30 /></a>
+  <a href="https://deepmehta.co.in">![qr-code](https://user-images.githubusercontent.com/29853549/119534211-48e22b00-bda4-11eb-89ec-98b30a37d0fa.png)</a>
 </p>
 
 *******
