@@ -21,10 +21,7 @@ DevOps | Azure Cloud Architecture
 
 *******
 <p align="center">
-  Find me on LinkedIn
-  <p align="center">
-    <a href="https://www.linkedin.com/in/deepmehta97/"><img src="https://svgshare.com/i/TTx.svg" height=30 /></a>
-  </p>
+  Find me on LinkedIn <a href="https://www.linkedin.com/in/deepmehta97/"><img src="https://svgshare.com/i/TTx.svg" height=30 /></a>
 </p>
 
 *******
