@@ -22,6 +22,7 @@ DevOps | Azure Cloud Architecture
 *******
 <p align="center">
   <a href="https://deepmehta.co.in"><img alt="Profile Barcode" src="https://user-images.githubusercontent.com/29853549/119534211-48e22b00-bda4-11eb-89ec-98b30a37d0fa.png" height="100" width="100"/></a>
+  [deepmehta.co.in](deepmehta.co.in)
 </p>
 
 *******
