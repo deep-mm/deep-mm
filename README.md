@@ -4,7 +4,7 @@ Software Engineer | Working as Consultant at Microsoft Consulting Services - Azu
 
 DevOps | Azure Cloud Architecture
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=deep-mm&hide=issues&show_icons=true&count_private=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=deep-mm&hide=issues,contribs&show_icons=true&count_private=true&theme=dark)
 
 <p>
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
