@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Software Engineer | Working as Technology Consultant at Microsoft Consulting Services - Azure Cloud & AI, India
+Masters in Computer Science @ North Carolina State University
 
 Full Stack Software Developer | Cloud & DevOps Engineer
 
