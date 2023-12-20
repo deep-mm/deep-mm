@@ -2,7 +2,7 @@
 
 Masters in Computer Science @ North Carolina State University
 
-Full Stack Software Developer | Cloud & DevOps Engineer
+| Ex-Amazon | Ex-Microsoft | Full Stack Software Developer - DevOps - Cloud Solutions |
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=deep-mm&hide=issues,contribs&show_icons=true&count_private=true&theme=dark)
 
